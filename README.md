@@ -9,6 +9,8 @@ The work presents an alternative approach to the texture synthesis and stylizati
 ## Purpose of the Repository
 The purpose of this repository is to provide a custom implementation of the techniques described in the paper. By implementing the methods proposed in the paper, users can explore and experiment with texture synthesis and stylization using deep learning techniques.
 
+## Model Architecture
+![architecture](/architecture.png)
 ## Example
 | Content | Style | Result |
 | ------- | ----- | ------ |
